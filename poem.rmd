@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+All in one golden afternoon
+As we rowed very leisurely
+Because rowing a boat is not easy
+The small arms still rhythmically
+Follow the calm water, the small boat
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
